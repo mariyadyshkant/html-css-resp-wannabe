@@ -175,6 +175,15 @@ img {
         height: auto;
     }
 
+    .why-us {
+        margin: 0;
+        padding: 3rem 0;
+        background-color: black;
+    }
+
+    .steps {
+        margin: 3rem 0 0 0;
+    }
 }
 
 @media screen and (max-width: 1160px) {
